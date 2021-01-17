@@ -1,0 +1,9 @@
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\dal\bin\Debug\netstandard2.0\DAL.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\dal\bin\Debug\netstandard2.0\DAL.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\dal\bin\Debug\netstandard2.0\DAL.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\dal\obj\Debug\netstandard2.0\DAL.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\LabFiles\Lab2\Starter\dal\obj\Debug\netstandard2.0\DAL.pdb
